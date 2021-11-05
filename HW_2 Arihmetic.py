@@ -21,10 +21,10 @@ print('result_sum =',result_sum);
 result_subtr = item_2 - item_1
 print('result_subtr =', result_subtr);
 
-  7. Создать переменную result_multi в которой вы умножаете item_1 на item_2.
-  8. Вывести result_multi в консоль.
-#result_multi = item_1 * item_2
-#print('result_multi =', result_multi);
+#7. Создать переменную result_multi в которой вы умножаете item_1 на item_2.
+#8. Вывести result_multi в консоль.
+result_multi = item_1 * item_2
+print('result_multi =', result_multi);
 
 #  9. Создать переменную result_exp в которой вы item_1 возводите в степень item_2.
 #  10. Вывести result_exp в консоль.
